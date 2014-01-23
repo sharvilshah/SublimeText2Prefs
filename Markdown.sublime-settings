@@ -1,0 +1,15 @@
+{
+	"extensions":
+	[
+		"md",
+		"mdown",
+		"txt",
+		"markdown"
+	],
+	"color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
+	"draw_centered": true,
+	"wrap_width": 80,
+	"word_wrap": true,
+	"margin": 20,
+	"draw_outline": true
+}

@@ -1,0 +1,21 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"ApacheConf.tmLanguage",
+		"FileDiffs",
+		"FullScreenStatus",
+		"Gist",
+		"GitGutter",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"PlainTasks",
+		"Theme - Flatland",
+		"Theme - Soda",
+		"Theme - Spacegray",
+		"Tomorrow Color Schemes",
+		"Typewriter"
+	]
+}

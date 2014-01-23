@@ -1,0 +1,3 @@
+[
+	{ "keys": ["ctrl+x"], "command": "plain_tasks_archive","context": [{ "key": "selector", "operator": "equal", "operand": "text.todo" }] }
+]
